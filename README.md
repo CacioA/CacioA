@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Antonio</h1>
+<h1 align="center">👋 Hi, I'm Antonio</h1>
 <h3 align="center">Final year Computer Science - University of Greenwich.</h3>
 <h3 align="center">Passionate about Machine Learning and software development with a focus on Java.</h3>
 
