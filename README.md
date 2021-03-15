@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Antonio</h1>
 <h3 align="center">Final year Computer Science - University of Greenwich.</h3>
-<he align="center">Passionate about Machine Learning and software development with a focus on Java.</h3>
+<h3 align="center">Passionate about Machine Learning and software development with a focus on Java.</h3>
 
-- 🔭 I’m currently working on [a ML algorithms comparison project as part of my diseration](https://github.com/CacioA/Romanian_Forests_90_19_ML/)
+- 🔭 I’m currently working on [a ML project about the size and value of Romanian Forests.](https://github.com/CacioA/Romanian_Forests_90_19_ML/)
 
 - 🌱 I’m currently learning **Python, Java, Spring, Maven, JavaScript, NodeJS, C#,**
 
