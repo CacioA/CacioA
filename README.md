@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on [a ML project about the size and value of Romanian Forests.](https://github.com/CacioA/Romanian_Forests_90_19_ML/)
 
-- 🌱 I’m currently learning **Python, Java, Spring, Maven, JavaScript, NodeJS, C#,**
+- 🌱 I’m currently learning **Python, Java, Spring, Maven, JavaScript, NodeJS and C#**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
