@@ -1,10 +1,9 @@
 <h1 align="center">👋 Hi, I'm Antonio</h1>
-<h3 align="center">Final year Computer Science - University of Greenwich.</h3>
-<h3 align="center">Passionate about Machine Learning with Python and software development with a focus on Java.</h3>
+<h3 align="center">I'm a Computer Science graduate looking for a Java software developer/engineer position </h3>
 
 - 🔭 I’m currently working on [a ML project about the size and value of Romanian Forests.](https://github.com/CacioA/Romanian_Forests_90_19_ML/)
 
-- 🌱 I’m currently learning **Python, Java, Spring, Maven, JavaScript, NodeJS and C#**
+- 🌱 I’m currently learning **Spring, Maven, Hibernate, jQuery**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
