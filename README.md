@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hi, I'm Antonio</h1>
 <h3 align="center">I'm a Computer Science graduate looking for a Java software developer/engineer position </h3>
 
-- 🔭 I’m currently working on [a User Management Project in Java (SpringMVC & Hibernate](https://github.com/CacioA/UserManagementSpring/)
+- 🔭 I’m currently working on [a User Management Project in Java (SpringMVC & Hibernate)](https://github.com/CacioA/UserManagementSpring/)
 
 - 🌱 I’m currently learning **Spring, Maven, Hibernate, jQuery**
 
