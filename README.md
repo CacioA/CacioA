@@ -1,9 +1,9 @@
 <h1 align="center">👋 Hi, I'm Antonio</h1>
 <h3 align="center">I'm a Computer Science graduate looking for a Java software developer/engineer position </h3>
 
-- 🔭 I’m currently working on [a User Management Project in Java (SpringMVC & Hibernate)](https://github.com/CacioA/UserManagementSpring/)
+- 🔭 I have just finished [a User Management Project in Java (Spring, Hibernate, JPA, Thymeleaf, MYSQL)](https://github.com/CacioA/SpringCustomerManagCRUD_API)
 
-- 🌱 I’m currently learning **Spring, Maven, Hibernate, jQuery**
+- 🌱 I’m currently learning **Angular** which I will be using to develop a Full-stack project.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
