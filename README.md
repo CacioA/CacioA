@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Angular** which I will be using to develop a Full-stack project.
 
-<h3 align="left">Connect with me on [LinkedIn](https://www.linkedin.com/in/antoniocacio/).</h3> 
+<h3 align="left">Connect with me on </h3> [LinkedIn](https://www.linkedin.com/in/antoniocacio/).
 
 
 <h3 align="left">Languages and Tools:</h3>
