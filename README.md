@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hi, I'm Antonio</h1>
-<h3 align="center">I'm a Computer Science graduate looking for a Java software developer/engineer position </h3>
+
 
 - 🔭 I have just finished [a User Management Project in Java (Spring, Hibernate, JPA, Thymeleaf, MYSQL)](https://github.com/CacioA/SpringCustomerManagCRUD_API)
 
